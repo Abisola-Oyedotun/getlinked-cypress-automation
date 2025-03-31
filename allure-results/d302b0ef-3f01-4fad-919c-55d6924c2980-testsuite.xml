@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1743423303269' stop='1743423335814'>
+    <name>My First Test</name>
+    <title>My First Test</title>
+    <test-cases>
+        <test-case start='1743423303270' status='passed' stop='1743423311741'>
+            <name>should display the application name</name>
+            <title>should display the application name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743423311823' status='passed' stop='1743423316765'>
+            <name>should display app introduction</name>
+            <title>should display app introduction</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743423316846' status='passed' stop='1743423320100'>
+            <name>Verify that user can select the hire talent option</name>
+            <title>Verify that user can select the hire talent option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743423320144' status='passed' stop='1743423323536'>
+            <name>Verify that user can select the get hired option</name>
+            <title>Verify that user can select the get hired option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743423323585' status='passed' stop='1743423327234'>
+            <name>Verify that user can select the get hired option</name>
+            <title>Verify that user can select the get hired option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743423327275' status='passed' stop='1743423330451'>
+            <name>Verify that user can submit application a global intern</name>
+            <title>Verify that user can submit application a global intern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743423330537' status='passed' stop='1743423335814'>
+            <name>Verify that user can submit application as a global intern</name>
+            <title>Verify that user can submit application as a global intern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8471","should display the application name","","Mon Mar 31 13:15:03 WAT 2025","passed","Mon Mar 31 13:15:11 WAT 2025","","My First Test","My First Test","should display the application name"
+"","3254","Verify that user can select the hire talent option","","Mon Mar 31 13:15:16 WAT 2025","passed","Mon Mar 31 13:15:20 WAT 2025","","My First Test","My First Test","Verify that user can select the hire talent option"
+"","4942","should display app introduction","","Mon Mar 31 13:15:11 WAT 2025","passed","Mon Mar 31 13:15:16 WAT 2025","","My First Test","My First Test","should display app introduction"
+"","5277","Verify that user can submit application as a global intern","","Mon Mar 31 13:15:30 WAT 2025","passed","Mon Mar 31 13:15:35 WAT 2025","","My First Test","My First Test","Verify that user can submit application as a global intern"
+"","3649","Verify that user can select the get hired option","","Mon Mar 31 13:15:23 WAT 2025","passed","Mon Mar 31 13:15:27 WAT 2025","","My First Test","My First Test","Verify that user can select the get hired option"
+"","3176","Verify that user can submit application a global intern","","Mon Mar 31 13:15:27 WAT 2025","passed","Mon Mar 31 13:15:30 WAT 2025","","My First Test","My First Test","Verify that user can submit application a global intern"

@@ -1,0 +1,68 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1743422707351' stop='1743422750435'>
+    <name>My First Test</name>
+    <title>My First Test</title>
+    <test-cases>
+        <test-case start='1743422707352' status='passed' stop='1743422714784'>
+            <name>should display the application name</name>
+            <title>should display the application name</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743422714863' status='passed' stop='1743422721701'>
+            <name>should display app introduction</name>
+            <title>should display app introduction</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743422721805' status='passed' stop='1743422726461'>
+            <name>Verify that user can select the hire talent option</name>
+            <title>Verify that user can select the hire talent option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743422726523' status='passed' stop='1743422731268'>
+            <name>Verify that user can select the get hired option</name>
+            <title>Verify that user can select the get hired option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743422731369' status='passed' stop='1743422735967'>
+            <name>Verify that user can select the get hired option</name>
+            <title>Verify that user can select the get hired option</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743422736198' status='passed' stop='1743422740797'>
+            <name>Verify that user can submit application a global intern</name>
+            <title>Verify that user can submit application a global intern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1743422740923' status='failed' stop='1743422750370'>
+            <name>Verify that user can submit application as a global intern</name>
+            <title>Verify that user can submit application as a global intern</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find element: `input[placeholder='joseph@getlinked.com']`, but never found it.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find element: `input[placeholder='joseph@getlinked.com']`, but never found it.
+                    at Context.eval (webpack://cypress_v13_project/./cypress/e2e/my-first-test/getlinked.cy.js:48:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

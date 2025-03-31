@@ -1,0 +1,18 @@
+{
+  "name": "getlinked",
+  "version": "1.0.0",
+  "description": "Getlinked Landing Page Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browser:edge":"npx cypress run --browser=edge --headed --spec cypress/e2e/my-first-test/getlinked.cy.js --reporter mocha-allure-reporter",
+    "report:allure": "allure generate allure-results --clean -o allure-report && allure open  allure-report"
+  },
+  "author": "АНО",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.33.0",
+    "cypress": "^13.17.0",
+    "mocha-allure-reporter": "^1.4.0"
+  }
+}
