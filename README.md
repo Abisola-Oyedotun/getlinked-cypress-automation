@@ -1,1 +1,0 @@
-# getlinked-cypress-automation

@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1060","Verify that user can select the hire talent option","","Mon Mar 31 13:35:36 UTC 2025","passed","Mon Mar 31 13:35:37 UTC 2025","","My First Test","My First Test","Verify that user can select the hire talent option"
+"","2064","Verify that user can submit application as a global intern","","Mon Mar 31 13:35:40 UTC 2025","passed","Mon Mar 31 13:35:42 UTC 2025","","My First Test","My First Test","Verify that user can submit application as a global intern"
+"","3566","should display the application name","","Mon Mar 31 13:35:30 UTC 2025","passed","Mon Mar 31 13:35:33 UTC 2025","","My First Test","My First Test","should display the application name"
+"","2105","should display app introduction","","Mon Mar 31 13:35:34 UTC 2025","passed","Mon Mar 31 13:35:36 UTC 2025","","My First Test","My First Test","should display app introduction"
+"","1145","Verify that user can select the get hired option","","Mon Mar 31 13:35:38 UTC 2025","passed","Mon Mar 31 13:35:39 UTC 2025","","My First Test","My First Test","Verify that user can select the get hired option"
+"","1071","Verify that user can submit application a global intern","","Mon Mar 31 13:35:39 UTC 2025","passed","Mon Mar 31 13:35:40 UTC 2025","","My First Test","My First Test","Verify that user can submit application a global intern"
